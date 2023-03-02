@@ -1,0 +1,10 @@
+.class1{
+    background-color: black;
+    height: 10vh;
+    color: beige;
+    text-align: center;
+}
+.class1,h1{
+margin top: 3px;
+padding: 2px;
+}
